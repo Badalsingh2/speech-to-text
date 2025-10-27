@@ -2,3 +2,4 @@ fastapi
 uvicorn
 SpeechRecognition
 pydub
+python-multipart
